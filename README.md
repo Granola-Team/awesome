@@ -10,6 +10,10 @@
 
 ## IT Security
 
+## Software Development
+
+- https://free-for.dev/
+
 ## Rust
 
 - https://www.zdnet.com/article/google-shows-off-kataos-a-secure-operating-system-written-in-rust/
