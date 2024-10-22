@@ -10,6 +10,13 @@
 
 ## IT Security
 
+- https://cloud.google.com/blog/products/identity-security/google-researchers-discover-reptar-a-new-cpu-vulnerability
+- https://lock.cmpxchg8b.com/reptar.html
+- https://x.com/sweis/status/1740092722487361809
+- https://xzhack.com/
+- https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html
+- https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/
+
 ## Software Development
 
 - https://free-for.dev/
