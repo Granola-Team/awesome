@@ -17,18 +17,18 @@
 ## Static Website Tools
 
 - https://keystatic.com/
-https://zudoku.dev/
-https://scalar.com/#api-docs
-https://mintlify.com/
-https://bump.sh/
-https://markdoc.dev/
-https://tina.io/
-https://directus.io/
-https://readme.com/
-https://www.gitbook.com/
-https://redocly.com/revel
-https://getpublii.com/
-https://decapcms.org/
+- https://zudoku.dev/
+- https://scalar.com/#api-docs
+- https://mintlify.com/
+- https://bump.sh/
+- https://markdoc.dev/
+- https://tina.io/
+- https://directus.io/
+- https://readme.com/
+- https://www.gitbook.com/
+- https://redocly.com/revel
+- https://getpublii.com/
+- https://decapcms.org/
 
 ## Rust
 
