@@ -202,3 +202,9 @@
 ## Web3 Governance
 
 ## Zero Knowledge and ZKApps
+
+## Software Provenance / Automated Governance
+
+- https://itrevolution.com/product/devops-automated-governance-reference-architecture/
+- https://slsa.dev/
+- https://socket.dev/
