@@ -19,6 +19,7 @@
 
 ## Software Development
 
+- https://itrevolutiodev.wpenginepowered.com/resources/
 - https://www.youtube.com/watch?v=Hybt9NdmsBw
 - https://www.youtube.com/watch?v=7xngnjfIlK4
 - https://www.warp.dev/
