@@ -1,5 +1,18 @@
 # Awesome
 
+- Build Systems
+- Haskell
+- IT Security
+- Software Development
+- Static Website Tools
+- Rust
+- Web3 Governance
+- Zero Knowledge and ZKApps
+
+## Build Systems
+
+- [Build Systems a la Carte](https://doi.org/10.1145/3236774)
+
 ## Haskell
 
 - https://functional.works-hub.com/haskell-jobs
