@@ -12,6 +12,7 @@
 ## Build Systems
 
 - [Build Systems a la Carte](https://doi.org/10.1145/3236774)
+- [Shake](https://shakebuild.com/)
 
 ## Haskell
 
