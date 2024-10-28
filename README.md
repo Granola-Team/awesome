@@ -268,6 +268,10 @@
 
 ## Web3 Governance
 
+- https://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf
+- https://en.wikipedia.org/wiki/Web3
+- https://minaprotocol.com/blog/next-steps-mina-protocol-governance
+
 ## Zero Knowledge and ZKApps
 
 ## Software Provenance / Automated Governance
