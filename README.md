@@ -274,6 +274,30 @@
 
 ## Zero Knowledge and ZKApps
 
+- https://www.youtube.com/watch?v=h-94UhJLeck
+- https://minaprotocol.com/blog/a-more-efficient-approach-to-zero-knowledge-for-plonk
+- https://medium.com/minaprotocol/meet-pickles-snark-enabling-smart-contract-on-coda-protocol-7ede3b54c250
+- https://www.youtube.com/watch?v=5h8dArmO28A
+- https://youtu.be/rvpNnjnBpP4
+- https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html
+- https://medium.com/@minaprotocol/2023-predictions-the-zero-knowledge-era-7b2014be9282
+- https://en.m.wikipedia.org/wiki/Elliptic-curve_cryptography
+- https://github.com/anoma/taiga
+- https://www.youtube.com/watch?v=FfeXX6OLq8w
+- https://research.stlouisfed.org/publications/review/2023/05/12/an-introduction-to-zero-knowledge-proofs-in-blockchains-and-economics
+- https://minaprotocol.com/blog/10-zkapps-use-cases-on-mina-protocol
+- https://docsend.com/view/f9a6kgdr4tjwuqng
+- https://minaprotocol.com/blog/introducing-core-a-new-program-for-the-mina-ecosystem
+- https://github.com/orgs/MinaFoundation/projects/7
+- https://minaprotocol.com/blog/zkignite-cohort-3
+- https://github.com/MinaFoundation/Core-Grants/pull/11/files
+- https://github.com/MinaFoundation/Core-Grants/pull/25/files
+- https://eips.ethereum.org/EIPS/eip-5484
+- https://easymina.xyz/docs/ideas-for-zk-apps
+- https://docs.minaprotocol.com/zkapps/testing-zkapps-lightnet
+- https://github.com/MinaFoundation/minimina
+- https://docs.minaprotocol.com/zkapps/testing-zkapps-locally
+
 ## Software Provenance / Automated Governance
 
 - https://itrevolution.com/product/devops-automated-governance-reference-architecture/
