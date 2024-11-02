@@ -1,14 +1,14 @@
 # Awesome
 
-- Build Systems
-- Haskell
-- IT Security
-- Software Development
-- Static Website Tools
-- Rust
-- Software Provenance
-- Web3 Governance
-- Zero Knowledge and ZKApps
+- [Build Systems](#build-systems)
+- [Haskell](#haskell)
+- [IT Security](#it-security)
+- [Software Development](#software-development)
+- [Static Website Tools](#static-website-tools)
+- [Rust](#rust)
+- [Software Provenance](#software-provenance)
+- [Web3 Governance](#web3-governance)
+- [Zero Knowledge and ZKApps](#zero-knowledge-and-zkapps)
 
 ## Build Systems
 
@@ -193,7 +193,7 @@
 - https://youtu.be/Y6ZHV0RH0fQ?si=-63Rp9LYCN30PDm1
 - https://free-for.dev/
 
-## Software Provenance / Automated Governance
+## Software Provenance
 
 - https://itrevolution.com/product/devops-automated-governance-reference-architecture/
 - https://slsa.dev/
