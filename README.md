@@ -6,6 +6,7 @@
 - Software Development
 - Static Website Tools
 - Rust
+- Software Provenance
 - Web3 Governance
 - Zero Knowledge and ZKApps
 
@@ -192,6 +193,13 @@
 - https://youtu.be/Y6ZHV0RH0fQ?si=-63Rp9LYCN30PDm1
 - https://free-for.dev/
 
+## Software Provenance / Automated Governance
+
+- https://itrevolution.com/product/devops-automated-governance-reference-architecture/
+- https://slsa.dev/
+- https://socket.dev/
+- https://csrc.nist.gov/News/2022/nist-publishes-sp-800-218-ssdf-v11
+
 ## Static Website Tools
 
 - https://keystatic.com/
@@ -297,9 +305,3 @@
 - https://docs.minaprotocol.com/zkapps/testing-zkapps-lightnet
 - https://github.com/MinaFoundation/minimina
 - https://docs.minaprotocol.com/zkapps/testing-zkapps-locally
-
-## Software Provenance / Automated Governance
-
-- https://itrevolution.com/product/devops-automated-governance-reference-architecture/
-- https://slsa.dev/
-- https://socket.dev/
