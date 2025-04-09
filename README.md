@@ -192,6 +192,10 @@
 - https://www.cweagans.net/2024/09/the-only-four-github-pr-filters-you-need/
 - https://youtu.be/Y6ZHV0RH0fQ?si=-63Rp9LYCN30PDm1
 - https://free-for.dev/
+- https://icepanel.io/
+- https://nixos.org/
+- https://flox.dev/
+- https://devenv.sh/
 
 ## Software Provenance
 
